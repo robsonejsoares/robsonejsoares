@@ -11,7 +11,8 @@ import urllib.request
 API = "https://api.github.com"
 OWNER = os.environ.get("PROFILE_GITHUB_OWNER", "robsonejsoares")
 PROFILE_REPO = f"{OWNER}/robsonejsoares"
-PALETTE = ("#f59e0b", "#38bdf8", "#a78bfa", "#34d399", "#818cf8")
+PALETTE = ("#a78bfa", "#34d399", "#818cf8", "#fb7185", "#facc15")
+FIXED_COLORS = {"PLpgSQL": "#a78bfa", "Java": "#f59e0b", "TypeScript": "#38bdf8", "Docker": "#34d399", "Outras linguagens": "#818cf8"}
 
 
 def fail(message):
@@ -117,7 +118,7 @@ def render_rows(languages):
     rows = []
     for index, (name, ratio, percentage) in enumerate(languages):
         y = 68 + index * 24
-        color = PALETTE[index % len(PALETTE)]
+        color = FIXED_COLORS.get(name, PALETTE[index % len(PALETTE)])
         label = html.escape(name)
         width = 120 * ratio
         rows.append(
