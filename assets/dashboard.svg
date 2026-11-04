@@ -26,8 +26,8 @@
     <text class="lb" x="26" y="188">📅 No GitHub desde:</text><text class="v1" x="300" y="188" text-anchor="end" font-weight="700">2023</text>
   </g>
   <g transform="translate(400 106)">
-    <circle class="rg" r="46" fill="none" stroke-width="9"/>
-    <circle r="46" fill="none" stroke="url(#ring)" stroke-width="9" stroke-linecap="round" stroke-dasharray="230 60" transform="rotate(-90)">
+    <circle class="rg" r="46" fill="none" stroke-width="4"/>
+    <circle r="46" fill="none" stroke="url(#ring)" stroke-width="4" stroke-linecap="round" stroke-dasharray="230 60" transform="rotate(-90)">
       <animateTransform attributeName="transform" type="rotate" from="-90" to="270" dur="14s" repeatCount="indefinite"/>
     </circle>
     <clipPath id="av"><circle r="37"/></clipPath>
