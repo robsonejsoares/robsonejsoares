@@ -1,0 +1,31 @@
+name: Update language statistics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Calculate language percentages
+        run: python3 .github/scripts/update-language-stats.py
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          PROFILE_GITHUB_OWNER: robsonejsoares
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/dashboard.svg; then
+            echo "Language distribution is unchanged."
+          else
+            git add assets/dashboard.svg
+            git commit -m "Update GitHub language statistics"
+            git push
+          fi
