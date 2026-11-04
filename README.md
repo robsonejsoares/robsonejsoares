@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://github.com/robsonejsoares"><img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/robson-soares-b22513170/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://discord.com/users/1192560342568554517"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://t.me/robsonejsoares"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/robsonejsoares" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/robson-soares-b22513170/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/1192560342568554517" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/></a>&nbsp;&nbsp;
+<a href="https://t.me/robsonejsoares" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/></a>
 
 <br/>
 
