@@ -14,12 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+      - name: Style snake
+        run: python3 .github/scripts/style-snake.py dist/github-snake.svg light dist/github-snake-dark.svg dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
