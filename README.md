@@ -14,7 +14,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/id-card.svg" alt="Crachá de Robson Soares" width="300"/>
+<img src="./assets/id-card.svg" alt="Crachá de Robson Soares" width="240"/>
 
 </td>
 <td width="62%" valign="middle">
