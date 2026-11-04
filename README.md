@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://zayroncode.com.br/portfolio/robson-soares" target="_blank" rel="noopener noreferrer"><img src="./assets/portfolio.svg" width="32" height="32" alt="Portfólio"/></a>&nbsp;&nbsp;
-<a href="https://github.com/robsonejsoares" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://github.com/robsonejsoares" target="_blank" rel="noopener noreferrer"><img src="./assets/github.svg" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/robson-soares-b22513170/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/1192560342568554517" target="_blank" rel="noopener noreferrer"><img src="./assets/discord.svg" width="32" height="32" alt="Discord"/></a>&nbsp;&nbsp;
 <a href="https://t.me/robsonejsoares" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/></a>
