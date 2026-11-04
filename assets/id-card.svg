@@ -13,7 +13,7 @@
     <animateTransform attributeName="transform" type="rotate" values="-2.5 165 0;2.5 165 0;-2.5 165 0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>
     <path d="M165 0 V70" stroke="#a78bfa" stroke-width="8" stroke-linecap="round"/>
     <rect x="145" y="62" width="40" height="22" rx="6" fill="#94a3b8"/>
-    <rect x="25" y="82" width="280" height="360" rx="22" fill="url(#card)" stroke="#7c3aed" stroke-width="2"/>
+    <rect x="25" y="82" width="280" height="360" rx="6" fill="url(#card)" stroke="#7c3aed" stroke-width="2"/>
     <rect x="125" y="96" width="80" height="10" rx="5" fill="#0b1026" fill-opacity="0.6"/>
     <circle cx="165" cy="190" r="58" fill="none" stroke="url(#ring)" stroke-width="5"/>
     <circle cx="165" cy="190" r="50" fill="#0b1026"/>
@@ -22,7 +22,7 @@
     <text x="165" y="318" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#c4b5fd">Full Stack Developer</text>
     <rect x="55" y="340" width="220" height="1" fill="#7c3aed"/>
     <text x="165" y="368" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="13" fill="#ddd6fe">Java · PHP · Node.js · React</text>
-    <rect x="85" y="388" width="160" height="28" rx="14" fill="#6d4aff" fill-opacity="0.25" stroke="#a78bfa"/>
+    <rect x="85" y="388" width="160" height="28" rx="6" fill="#6d4aff" fill-opacity="0.25" stroke="#a78bfa"/>
     <circle cx="106" cy="402" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
     <text x="120" y="407" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ede9fe">Aberto a colaborar</text>
   </g>
