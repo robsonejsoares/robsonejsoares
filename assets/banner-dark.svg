@@ -1,36 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Robson Soares — Full Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-labelledby="title desc">
+  <title id="title">Robson Soares — Full Stack Developer</title><desc id="desc">Banner animado em tema escuro com apresentação, tecnologias, resumo profissional e métricas públicas de Robson Soares.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1026"/>
-      <stop offset="0.55" stop-color="#2a1b6b"/>
-      <stop offset="1" stop-color="#6d4aff"/>
-    </linearGradient>
-    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#c4b5fd"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1026"/><stop offset=".52" stop-color="#12112e"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0ea5e9"/><stop offset=".45" stop-color="#8b5cf6"/><stop offset=".72" stop-color="#c084fc"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#ddd6fe"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <linearGradient id="panelEdge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0ea5e9"/><stop offset=".45" stop-color="#8b5cf6"/><stop offset=".78" stop-color="#c084fc"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0620"/><stop offset=".55" stop-color="#1e1065"/><stop offset="1" stop-color="#2e1065"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="17" flood-color="#000000" flood-opacity=".45"/></filter>
+    <clipPath id="shell"><rect x="1" y="1" width="1278" height="738" rx="6"/></clipPath>
+    <clipPath id="panelClip"><rect x="716" y="212" width="518" height="472" rx="4"/></clipPath>
+    <style><![CDATA[text{font-family:Inter,"Segoe UI",Arial,sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.intro{opacity:0;animation:fadeUp .55s ease forwards}.cursor{animation:blink 1s step-end infinite}.float{animation:float 5s ease-in-out infinite}.float2{animation:float2 6.2s ease-in-out infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.shine{animation:shine 6s ease-in-out 2.5s infinite}.scan{animation:scan 7s ease-in-out infinite}.role{opacity:0}.r1{animation:r1 16s ease infinite}.r2{animation:r2 16s ease infinite}.r3{animation:r3 16s ease infinite}.r4{animation:r4 16s ease infinite}@keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes float2{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-10px) rotate(1deg)}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes shine{0%{transform:translateX(-180px) skewX(-15deg)}55%,100%{transform:translateX(1380px) skewX(-15deg)}}@keyframes scan{0%,100%{transform:translateY(-8px);opacity:0}15%,72%{opacity:.3}78%{transform:translateY(150px);opacity:0}}@keyframes r1{0%,20%{opacity:1}24%,100%{opacity:0}}@keyframes r2{0%,24%{opacity:0}26%,45%{opacity:1}49%,100%{opacity:0}}@keyframes r3{0%,49%{opacity:0}51%,70%{opacity:1}74%,100%{opacity:0}}@keyframes r4{0%,74%{opacity:0}76%,96%{opacity:1}100%{opacity:0}}@media(prefers-reduced-motion:reduce){.intro,.cursor,.float,.float2,.pulse,.shine,.scan,.role{animation:none!important;opacity:1}.r2,.r3,.r4{display:none}}]]></style>
   </defs>
-  <rect width="1200" height="300" rx="6" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="6" fill="url(#grid)"/>
-  <g fill="#ffffff">
-    <circle cx="140" cy="60" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="380" cy="230" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="640" cy="40" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
-    <circle cx="900" cy="250" r="1.8"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
-    <circle cx="1090" cy="70" r="2.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+  <g clip-path="url(#shell)">
+    <rect width="1280" height="740" fill="url(#bg)"/><rect width="1280" height="740" fill="url(#grid)"/>
+    <circle cx="1120" cy="90" r="300" fill="#8b5cf6" opacity=".16"/><circle cx="650" cy="740" r="330" fill="#2563eb" opacity=".08"/>
+    <path d="M0 662C260 570 420 760 680 632s382-164 640-106v250H0Z" fill="#7c3aed" opacity=".12"/>
+
+    <g class="intro" style="animation-delay:.1s"><text class="mono" x="48" y="69" font-size="14"><tspan fill="#4ade80" font-weight="800">robson@full-stack</tspan><tspan fill="#94a3b8">:~$ </tspan><tspan fill="#e2e8f0">cat </tspan><tspan fill="#c084fc">README.md</tspan></text><rect class="cursor" x="338" y="53" width="8" height="18" fill="#4ade80"/></g>
+    <text class="intro" style="animation-delay:.35s" x="48" y="116" fill="#f8fafc" font-size="24" font-weight="800">Hi, I'm 👋</text>
+    <text class="intro" style="animation-delay:.6s" x="48" y="188" fill="url(#titleGradient)" font-size="62" font-weight="900" letter-spacing="-2">Robson Soares</text>
+    <rect class="intro" style="animation-delay:.75s" x="48" y="207" width="114" height="4" rx="2" fill="#22c55e"/><rect class="intro" style="animation-delay:.82s" x="170" y="207" width="245" height="4" rx="2" fill="url(#edge)"/>
+    <g class="mono" font-size="17" font-weight="700">
+      <text class="role r1" x="48" y="246" fill="#c084fc">&lt; Full Stack Developer /&gt;</text>
+      <text class="role r2" x="48" y="246" fill="#38bdf8">&lt; Java &amp; Spring Boot /&gt;</text>
+      <text class="role r3" x="48" y="246" fill="#4ade80">&lt; TypeScript &amp; React /&gt;</text>
+      <text class="role r4" x="48" y="246" fill="#fbbf24">&lt; APIs &amp; Bancos de Dados /&gt;</text>
+    </g>
+
+    <g class="intro" style="animation-delay:1s"><rect x="48" y="270" width="570" height="74" rx="6" fill="#111827" fill-opacity=".9" stroke="#8b5cf6" stroke-opacity=".45"/><rect x="48" y="270" width="4" height="74" rx="2" fill="url(#edge)"/><text class="mono" x="76" y="299" fill="#e2e8f0" font-size="14">Soluções confiáveis começam com decisões claras.</text><text class="mono" x="76" y="325" fill="#94a3b8" font-size="14">Do banco de dados à interface, cada camada importa.</text></g>
+
+    <text class="mono intro" style="animation-delay:1.2s" x="48" y="380" fill="#4ade80" font-size="14" font-weight="800">🧩 TECH I KNOW</text>
+    <g class="mono" font-size="11" font-weight="750">
+      <g class="intro" style="animation-delay:1.35s"><rect x="48" y="395" width="74" height="26" rx="6" fill="#2a1d08" stroke="#d97706"/><text x="85" y="412" text-anchor="middle" fill="#fbbf24">JAVA</text></g>
+      <g class="intro" style="animation-delay:1.45s"><rect x="130" y="395" width="118" height="26" rx="6" fill="#0b2415" stroke="#16a34a"/><text x="189" y="412" text-anchor="middle" fill="#4ade80">SPRING BOOT</text></g>
+      <g class="intro" style="animation-delay:1.55s"><rect x="256" y="395" width="100" height="26" rx="6" fill="#082233" stroke="#0284c7"/><text x="306" y="412" text-anchor="middle" fill="#38bdf8">TYPESCRIPT</text></g>
+      <g class="intro" style="animation-delay:1.65s"><rect x="364" y="395" width="74" height="26" rx="6" fill="#082233" stroke="#0284c7"/><text x="401" y="412" text-anchor="middle" fill="#38bdf8">REACT</text></g>
+      <g class="intro" style="animation-delay:1.75s"><rect x="48" y="429" width="86" height="26" rx="6" fill="#0b2415" stroke="#16a34a"/><text x="91" y="446" text-anchor="middle" fill="#4ade80">NODE.JS</text></g>
+      <g class="intro" style="animation-delay:1.85s"><rect x="142" y="429" width="64" height="26" rx="6" fill="#1e1646" stroke="#8b5cf6"/><text x="174" y="446" text-anchor="middle" fill="#a78bfa">PHP</text></g>
+      <g class="intro" style="animation-delay:1.95s"><rect x="214" y="429" width="104" height="26" rx="6" fill="#2a1d08" stroke="#d97706"/><text x="266" y="446" text-anchor="middle" fill="#fbbf24">POSTGRESQL</text></g>
+      <g class="intro" style="animation-delay:2.05s"><rect x="326" y="429" width="82" height="26" rx="6" fill="#2a1250" stroke="#9333ea"/><text x="367" y="446" text-anchor="middle" fill="#c084fc">DOCKER</text></g>
+    </g>
+
+    <text class="mono intro" style="animation-delay:2.2s" x="48" y="493" fill="#c084fc" font-size="14" font-weight="800">🕳️ ABOUT ME</text>
+    <g class="mono" font-size="13.5">
+      <text class="intro" style="animation-delay:2.35s" x="48" y="521"><tspan fill="#4ade80">&gt;_ </tspan><tspan fill="#cbd5e1">Desenvolvo back-ends em Java com Spring Boot e APIs REST.</tspan></text>
+      <text class="intro" style="animation-delay:2.5s" x="48" y="547"><tspan fill="#38bdf8">▸ </tspan><tspan fill="#cbd5e1">Crio interfaces modernas com TypeScript e React.</tspan></text>
+      <text class="intro" style="animation-delay:2.65s" x="48" y="573"><tspan fill="#c084fc">◆ </tspan><tspan fill="#cbd5e1">Trabalho com PostgreSQL, MySQL, Oracle, SQL Server e MongoDB.</tspan></text>
+    </g>
+
+    <g class="intro" style="animation-delay:2.8s"><rect x="48" y="596" width="570" height="70" rx="6" fill="#111827" fill-opacity=".9" stroke="#4c1d95"/><path d="M190 607v48M332 607v48M474 607v48" stroke="#334155"/>
+      <g class="mono" text-anchor="middle">
+        <text x="119" y="619" fill="#94a3b8" font-size="10">📦 REPOS</text><text x="119" y="646" fill="#4ade80" font-size="18" font-weight="800">1</text>
+        <text x="261" y="619" fill="#94a3b8" font-size="10">👥 FOLLOWERS</text><text x="261" y="646" fill="#fbbf24" font-size="18" font-weight="800">1</text>
+        <text x="403" y="619" fill="#94a3b8" font-size="10">📅 DESDE</text><text x="403" y="646" fill="#c084fc" font-size="18" font-weight="800">2023</text>
+        <text x="546" y="619" fill="#94a3b8" font-size="10">🚀 BACK-ENDS</text><text x="546" y="646" fill="#38bdf8" font-size="18" font-weight="800">03</text>
+      </g></g>
+
+    <g class="float" filter="url(#shadow)"><rect x="670" y="48" width="320" height="178" rx="6" fill="#0f172a" stroke="#8b5cf6" stroke-opacity=".6"/><path d="M670 54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v25H670Z" fill="#1e1b4b"/><circle cx="690" cy="64" r="4" fill="#fb7185"/><circle cx="705" cy="64" r="4" fill="#fbbf24"/><circle cx="720" cy="64" r="4" fill="#22c55e"/><text class="mono" x="970" y="67" text-anchor="end" fill="#94a3b8" font-size="9">RobsonSoares.java</text>
+      <text class="mono" x="690" y="104" fill="#f472b6" font-size="11">public final class</text><text class="mono" x="817" y="104" fill="#f8fafc" font-size="11">RobsonSoares {</text>
+      <text class="mono" x="705" y="130" fill="#38bdf8" font-size="11">String</text><text class="mono" x="756" y="130" fill="#cbd5e1" font-size="11">mission =</text><text class="mono" x="826" y="130" fill="#4ade80" font-size="11">"build";</text>
+      <text class="mono" x="705" y="156" fill="#c084fc" font-size="11">connect</text><text class="mono" x="755" y="156" fill="#cbd5e1" font-size="11">(front, api, data);</text>
+      <text class="mono" x="690" y="188" fill="#cbd5e1" font-size="11">}</text><rect class="scan" x="671" y="80" width="318" height="2" fill="#4ade80"/></g>
+
+    <g class="float2"><rect x="1017" y="58" width="214" height="112" rx="6" fill="#1e1b4b" stroke="#c084fc" stroke-width="2"/><rect x="1028" y="69" width="192" height="90" rx="6" fill="#0f172a" stroke="#6d28d9"/><text class="mono" x="1124" y="106" text-anchor="middle" fill="#c084fc" font-size="17" font-weight="900">&lt;/&gt;</text><text class="mono" x="1124" y="133" text-anchor="middle" fill="#ddd6fe" font-size="12" font-weight="800">BUILD • CONNECT</text><text class="mono" x="1124" y="150" text-anchor="middle" fill="#4ade80" font-size="10">KEEP EVOLVING</text></g>
+
+    <rect x="704" y="200" width="542" height="496" rx="8" fill="#0f172a" stroke="url(#panelEdge)" stroke-width="3" filter="url(#shadow)"/>
+    <g clip-path="url(#panelClip)">
+      <rect x="716" y="212" width="518" height="472" fill="url(#panelBg)"/><rect x="716" y="212" width="518" height="472" fill="url(#grid)"/>
+      <circle cx="1120" cy="270" r="190" fill="#8b5cf6" opacity=".25"/><circle cx="800" cy="650" r="210" fill="#0284c7" opacity=".18"/>
+      <text class="mono" x="744" y="246" fill="#a78bfa" font-size="12">// full stack architecture</text>
+      <g class="mono">
+        <rect x="766" y="262" width="418" height="72" rx="6" fill="#ffffff" fill-opacity=".06" stroke="#38bdf8" stroke-opacity=".7"/><rect x="766" y="262" width="4" height="72" fill="#38bdf8"/><text x="790" y="292" fill="#38bdf8" font-size="12" font-weight="800">FRONT-END</text><text x="790" y="314" fill="#e2e8f0" font-size="11">TypeScript · React · Next.js</text><text x="1160" y="306" text-anchor="end" fill="#38bdf8" fill-opacity=".8" font-size="22" font-weight="800">&lt;/&gt;</text>
+        <path d="M975 334V358" stroke="#a78bfa" stroke-dasharray="3 3"/><circle cx="975" r="3" fill="#c084fc"><animate attributeName="cy" values="334;358" dur="1.6s" repeatCount="indefinite"/></circle>
+        <rect x="766" y="358" width="418" height="72" rx="6" fill="#ffffff" fill-opacity=".06" stroke="#c084fc" stroke-opacity=".7"/><rect x="766" y="358" width="4" height="72" fill="#c084fc"/><text x="790" y="388" fill="#c084fc" font-size="12" font-weight="800">API REST</text><text x="790" y="410" fill="#e2e8f0" font-size="11">Integração · Validação de dados</text><text x="1160" y="402" text-anchor="end" fill="#c084fc" fill-opacity=".8" font-size="22" font-weight="800">{ }</text>
+        <path d="M975 430V454" stroke="#a78bfa" stroke-dasharray="3 3"/><circle cx="975" r="3" fill="#4ade80"><animate attributeName="cy" values="430;454" dur="1.6s" begin=".4s" repeatCount="indefinite"/></circle>
+        <rect x="766" y="454" width="418" height="72" rx="6" fill="#ffffff" fill-opacity=".06" stroke="#4ade80" stroke-opacity=".7"/><rect x="766" y="454" width="4" height="72" fill="#4ade80"/><text x="790" y="484" fill="#4ade80" font-size="12" font-weight="800">BACK-END</text><text x="790" y="506" fill="#e2e8f0" font-size="11">Java · Spring Boot · Node.js · PHP</text><text x="1160" y="498" text-anchor="end" fill="#4ade80" fill-opacity=".8" font-size="22" font-weight="800">▣</text>
+        <path d="M975 526V550" stroke="#a78bfa" stroke-dasharray="3 3"/><circle cx="975" r="3" fill="#fbbf24"><animate attributeName="cy" values="526;550" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle>
+        <rect x="766" y="550" width="418" height="72" rx="6" fill="#ffffff" fill-opacity=".06" stroke="#fbbf24" stroke-opacity=".7"/><rect x="766" y="550" width="4" height="72" fill="#fbbf24"/><text x="790" y="580" fill="#fbbf24" font-size="12" font-weight="800">BANCOS DE DADOS</text><text x="790" y="602" fill="#e2e8f0" font-size="11">PostgreSQL · MySQL · Oracle · SQL Server · MongoDB</text><text x="1160" y="594" text-anchor="end" fill="#fbbf24" fill-opacity=".8" font-size="22" font-weight="800">DB</text>
+      </g>
+    </g>
+    <rect x="716" y="212" width="518" height="472" rx="4" fill="none" stroke="#8b5cf6" stroke-opacity=".4"/>
+    <circle class="pulse" cx="1203" cy="662" r="8" fill="#22c55e" stroke="#0f172a" stroke-width="4"/><text class="mono" x="1188" y="666" text-anchor="end" fill="#4ade80" font-size="9">OPEN TO COLLABORATE</text>
+
+    <g class="mono" font-size="10.5"><text x="48" y="711" fill="#e2e8f0">◉ robsonejsoares</text><text x="245" y="711" fill="#a78bfa">▣ robson-soares</text><circle class="pulse" cx="535" cy="707" r="4" fill="#22c55e"/><text x="548" y="711" fill="#4ade80">systems connected</text><text x="1230" y="711" text-anchor="end" fill="#94a3b8">“Construindo soluções, aprendendo sempre.”</text></g>
+    <rect class="shine" x="-160" y="0" width="150" height="740" fill="url(#shine)"/>
   </g>
-  <g transform="translate(930 90)" fill="none" stroke="#c4b5fd" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M60 20 L10 70 L60 120"><animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/></path>
-    <path d="M150 20 L200 70 L150 120"><animate attributeName="stroke-opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/></path>
-    <path d="M115 5 L95 135" stroke="#ffffff"/>
-  </g>
-  <text x="70" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#txt)">Robson Soares</text>
-  <text x="72" y="185" font-family="Fira Code, Consolas, monospace" font-size="26" fill="#ddd6fe">Java • PHP • Node.js • React</text>
-  <text x="72" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c4b5fd">Construindo soluções, aprendendo sempre.</text>
-  <rect x="72" y="248" width="150" height="4" rx="2" fill="#a78bfa">
-    <animate attributeName="width" values="40;260;40" dur="4s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="1" y="1" width="1278" height="738" rx="6" fill="none" stroke="url(#edge)" stroke-width="2"/>
 </svg>
