@@ -17,7 +17,7 @@
   <g clip-path="url(#shell)">
     <rect width="1280" height="740" fill="url(#bg)"/><rect width="1280" height="740" fill="url(#grid)"/>
     
-    <path d="M0 662C260 570 420 760 680 632s382-164 640-106v250H0Z" fill="#7c3aed" opacity=".07"/>
+    
 
     <g class="intro" style="animation-delay:.1s"><text class="mono" x="48" y="69" font-size="14"><tspan fill="#15803d" font-weight="800">robson@full-stack</tspan><tspan fill="#64748b">:~$ </tspan><tspan fill="#1e293b">cat </tspan><tspan fill="#7e22ce">README.md</tspan></text><rect class="cursor" x="338" y="53" width="8" height="18" fill="#16a34a"/></g>
     <text class="intro" style="animation-delay:.35s" x="48" y="116" fill="#0f172a" font-size="24" font-weight="800">Hi, I'm 👋</text>
