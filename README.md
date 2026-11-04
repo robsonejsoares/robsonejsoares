@@ -18,38 +18,6 @@
 
 <br/>
 
-<details>
-<summary><code>public class RobsonSoares</code></summary>
-
-```java
-public final class RobsonSoares {
-
-    private final String role = "Full Stack Developer • Java + TypeScript/React";
-
-    private final String[] backend = {
-        "Java", "Spring Boot", "Node.js", "NestJS", "PHP", "Laravel"
-    };
-
-    private final String[] frontend = {
-        "TypeScript", "React", "Next.js"
-    };
-
-    private final String[] databases = {
-        "PostgreSQL", "MySQL", "SQL Server", "Oracle SQL", "MongoDB", "Firebase"
-    };
-
-    public String mission() {
-        return "Construir soluções e aprender sempre.";
-    }
-}
-```
-
-</details>
-
-<br/>
-
-<br/>
-
 <div align="center">
 
 ### 📊 Estatísticas do GitHub
