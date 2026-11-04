@@ -10,11 +10,11 @@
 
 <br/>
 
-<table align="center" border="0">
+<table width="100%" border="0">
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/id-card.svg" alt="Crachá de Robson Soares" width="190"/>
+<img src="./assets/id-card.svg" alt="Crachá de Robson Soares" width="230"/>
 
 </td>
 <td width="62%" valign="middle">
