@@ -7,7 +7,7 @@
 .pp{font-family:Inter,"Segoe UI",Arial,sans-serif}.pmono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
 ]]></style>
 </defs>
-<rect class="pbg" x="1" y="1" width="1278" height="558" rx="6" stroke="url(#pEdge)" stroke-width="2"/>
+<rect class="pbg" x="1" y="1" width="1278" height="558" rx="6" stroke="url(#pEdge)" stroke-width="1.2"/>
 <svg x="70" y="30" width="309" height="500" viewBox="0 0 420 680">
   
   
@@ -54,7 +54,7 @@
     <circle cx="210" cy="220" r="14" fill="#0b1026" stroke="#cbd5e1" stroke-width="6"/>
 
     <g>
-      <rect class="cardbg" x="43" y="228" width="334" height="423" rx="6" stroke="url(#border)" stroke-width="2"/>
+      <rect class="cardbg" x="43" y="228" width="334" height="423" rx="6" stroke="url(#border)" stroke-width="1.2"/>
       <rect x="44" y="229" width="332" height="421" rx="6" fill="url(#grid)"/>
       <path class="sep" d="M44 300H376"/>
       <path class="sep" d="M44 586H376"/>

@@ -66,7 +66,7 @@
 
     <g class="float2"><rect x="1017" y="58" width="214" height="112" rx="6" fill="#1e1b4b" stroke="#c084fc" stroke-width="2"/><rect x="1028" y="69" width="192" height="90" rx="6" fill="#0f172a" stroke="#6d28d9"/><text class="mono" x="1124" y="106" text-anchor="middle" fill="#c084fc" font-size="17" font-weight="900">&lt;/&gt;</text><text class="mono" x="1124" y="133" text-anchor="middle" fill="#ddd6fe" font-size="12" font-weight="800">BUILD • CONNECT</text><text class="mono" x="1124" y="150" text-anchor="middle" fill="#4ade80" font-size="10">KEEP EVOLVING</text></g>
 
-    <rect x="704" y="200" width="542" height="496" rx="8" fill="#0f172a" stroke="url(#panelEdge)" stroke-width="3" filter="url(#shadow)"/>
+    <rect x="704" y="200" width="542" height="496" rx="8" fill="#0f172a" stroke="url(#panelEdge)" stroke-width="1.5" filter="url(#shadow)"/>
     <g clip-path="url(#panelClip)">
       <rect x="705.5" y="201.5" width="539" height="493" fill="url(#panelBg)"/><rect x="705.5" y="201.5" width="539" height="493" fill="url(#grid)"/>
       <circle cx="1120" cy="270" r="190" fill="#8b5cf6" opacity=".25"/><circle cx="800" cy="650" r="210" fill="#0284c7" opacity=".18"/>
@@ -85,5 +85,5 @@
 
     <g class="mono" font-size="10.5"><text x="48" y="711" fill="#e2e8f0">◉ robsonejsoares</text><text x="245" y="711" fill="#a78bfa">▣ robson-soares</text><circle class="pulse" cx="535" cy="707" r="4" fill="#22c55e"/><text x="548" y="711" fill="#4ade80">systems connected</text><text x="1230" y="711" text-anchor="end" fill="#94a3b8">“Construindo soluções, aprendendo sempre.”</text></g>
   </g>
-  <rect x="1" y="1" width="1278" height="738" rx="6" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="738" rx="6" fill="none" stroke="url(#edge)" stroke-width=1.2""/>
 </svg>

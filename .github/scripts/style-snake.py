@@ -28,7 +28,7 @@ def style(svg, background):
         '<stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/>'
         '<stop offset="1" stop-color="#34d399"/></linearGradient></defs>'
         f'<rect x="-15" y="-39" width="878" height="174" rx="6" fill="{background}" '
-        'stroke="url(#edge)" stroke-width="2"/>'
+        'stroke="url(#edge)" stroke-width=1.2""/>'
     )
     return re.sub(r"(</style>)", rf"\1{frame}", svg, count=1)
 
