@@ -33,7 +33,11 @@
 
 <img src="./assets/skill-cards.svg" alt="Áreas principais: Front-end, Back-end, Mobile, Bancos de dados, DevOps e Segurança" width="860"/>
 
+</div>
+
 <br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsonejsoares/robsonejsoares/output/github-snake-dark.svg">
