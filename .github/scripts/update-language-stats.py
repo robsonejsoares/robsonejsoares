@@ -87,9 +87,14 @@ def distribution(token):
         fail("No language data found in owned repositories (excluding forks and the profile repository).")
 
     ranked = sorted(totals.items(), key=lambda item: (-item[1], item[0].lower()))
-    visible = ranked[:4]
-    if len(ranked) > 4:
-        visible.append(("Outras linguagens", sum(value for _, value in ranked[4:])))
+    docker = totals.get("Dockerfile", 0)
+    rest = [item for item in ranked if item[0] not in ("CSS", "Dockerfile")]
+    visible = rest[:3]
+    if docker:
+        visible.append(("Docker", docker))
+    others = sum(value for _, value in rest[3:]) + totals.get("CSS", 0)
+    if others:
+        visible.append(("Outras linguagens", others))
 
     total_bytes = sum(value for _, value in visible)
     raw_percentages = [(name, value, value * 100 / total_bytes) for name, value in visible]
@@ -121,7 +126,7 @@ def render_rows(languages):
             f'<rect class="track" x="680" y="{y - 3}" width="120" height="6" rx="3"/>'
             f'<rect x="680" y="{y - 3}" width="{width:.2f}" height="6" rx="3" fill="{color}"/>'
             f'<text x="838" y="{y + 4}" text-anchor="end" font-size="10.5" '
-            f'font-weight="700" fill="{color}">{percentage}%</text>'
+            f'font-weight="700" fill="{color}">{'&lt;1' if percentage == 0 else percentage}%</text>'
         )
     return "\n  ".join(rows)
 
