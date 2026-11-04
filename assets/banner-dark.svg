@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Robson Soares — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="0.55" stop-color="#2a1b6b"/>
+      <stop offset="1" stop-color="#6d4aff"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <g fill="#ffffff">
+    <circle cx="140" cy="60" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="230" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="40" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="250" r="1.8"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="70" r="2.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(930 90)" fill="none" stroke="#c4b5fd" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 20 L10 70 L60 120"><animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/></path>
+    <path d="M150 20 L200 70 L150 120"><animate attributeName="stroke-opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/></path>
+    <path d="M115 5 L95 135" stroke="#ffffff"/>
+  </g>
+  <text x="70" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#txt)">Robson Soares</text>
+  <text x="72" y="185" font-family="Fira Code, Consolas, monospace" font-size="26" fill="#ddd6fe">Java • PHP • Node.js • React</text>
+  <text x="72" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c4b5fd">Construindo soluções, aprendendo sempre.</text>
+  <rect x="72" y="248" width="150" height="4" rx="2" fill="#a78bfa">
+    <animate attributeName="width" values="40;260;40" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
