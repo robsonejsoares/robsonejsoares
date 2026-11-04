@@ -12,9 +12,7 @@
 
 <div align="center">
 
-<img src="./assets/projects-panel.svg" alt="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio profissional e Ministério Plantar" width="100%"/>
-
-🌐 [Portfólio profissional](https://zayroncode.com.br/portfolio/robson-soares)
+<img src="./assets/projects-panel.svg" alt="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio e Ministério Plantar" width="100%"/>
 
 </div>
 

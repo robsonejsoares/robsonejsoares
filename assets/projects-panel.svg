@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio profissional e Ministério Plantar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio e Ministério Plantar">
 <defs>
 <linearGradient id="pEdge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
 <style><![CDATA[
@@ -113,9 +113,8 @@
 <rect class="pchip" x="919.7" y="238" width="66.4" height="26" rx="6"/><text class="pmono pchipt" x="952.9" y="255" font-size="12" text-anchor="middle">Stripe</text>
 <text class="pp pt" x="1110" y="257" font-size="16" text-anchor="middle">🔒 Privado</text>
 <path class="pln" d="M470 279H1210"/>
-<text class="pp pt" x="494" y="313" font-size="16">🌐 Portfólio profissional</text>
-<rect class="pchip" x="778.5" y="294" width="59.0" height="26" rx="6"/><text class="pmono pchipt" x="808.0" y="311" font-size="12" text-anchor="middle">React</text>
-<rect class="pchip" x="845.5" y="294" width="96.0" height="26" rx="6"/><text class="pmono pchipt" x="893.5" y="311" font-size="12" text-anchor="middle">TypeScript</text>
+<text class="pp pt" x="494" y="313" font-size="16">🌐 Portfólio</text>
+<rect class="pchip" x="748.7" y="294" width="51.6" height="26" rx="6"/><text class="pmono pchipt" x="774.5" y="311" font-size="12" text-anchor="middle">Java</text><rect class="pchip" x="808.3" y="294" width="59.0" height="26" rx="6"/><text class="pmono pchipt" x="837.8" y="311" font-size="12" text-anchor="middle">React</text><rect class="pchip" x="875.3" y="294" width="96.0" height="26" rx="6"/><text class="pmono pchipt" x="923.3" y="311" font-size="12" text-anchor="middle">TypeScript</text>
 <text class="pp pt" x="1110" y="313" font-size="16" text-anchor="middle">🟢 Online</text>
 <path class="pln" d="M470 335H1210"/>
 <text class="pp pt" x="494" y="369" font-size="16">⛪ Ministério Plantar</text>
