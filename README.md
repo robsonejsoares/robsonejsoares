@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="./assets/dashboard.svg" alt="Estatísticas públicas do GitHub e stack por categoria de Robson Soares" width="860"/>
+<img src="./assets/dashboard.svg" alt="Estatísticas públicas do GitHub e tecnologias principais de Robson Soares" width="860"/>
 
 <br/>
 
