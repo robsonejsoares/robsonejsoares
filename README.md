@@ -31,7 +31,7 @@
 
 <br/>
 
-<img src="./assets/skill-cards.svg" alt="Áreas principais: Java, Front-end, Node.js, PHP, Bancos de dados e Segurança" width="860"/>
+<img src="./assets/skill-cards.svg" alt="Áreas principais: Front-end, Back-end, Mobile, Bancos de dados, DevOps e Segurança" width="860"/>
 
 <br/><br/>
 
