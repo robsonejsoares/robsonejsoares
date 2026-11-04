@@ -10,33 +10,13 @@
 
 <br/>
 
-<table border="0">
-<tr>
-<td colspan="2" height="0" style="padding:0"><img src="./assets/spacer.svg" width="2000" height="1" alt=""/></td>
-</tr>
-<tr>
-<td width="38%" align="center" valign="middle">
+<div align="center">
 
-<img src="./assets/id-card.svg" alt="Crachá de Robson Soares" width="230"/>
+<img src="./assets/projects-panel.svg" alt="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio profissional e Ministério Plantar" width="100%"/>
 
-</td>
-<td width="62%" valign="middle">
+🌐 [Portfólio profissional](https://zayroncode.com.br/portfolio/robson-soares)
 
-### 🚀 Projetos em destaque
-
-| Projeto | 💻 Tech | Status |
-|:---|:---:|:---:|
-| 🏥 SmartClin | `Next.js` `TypeScript` `Stripe` | 🔒 Privado |
-| 🌐 [Portfólio profissional](https://zayroncode.com.br/portfolio/robson-soares) | `React` `TypeScript` | 🟢 Online |
-| ⛪ Ministério Plantar | `Java` `Spring Boot` `PostgreSQL` | 🔒 Privado |
-
-<br/>
-
-> 💬 *"Construindo soluções, aprendendo sempre."*
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 

@@ -1,6 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 680" width="320" height="518" role="img" aria-labelledby="title desc">
-  <title id="title">Credencial profissional de Robson Soares</title>
-  <desc id="desc">Crachá com a logo de Robson Soares, Full Stack Developer, stack Java, Spring, TypeScript e React, e status aberto a colaborar.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio profissional e Ministério Plantar">
+<defs>
+<linearGradient id="pEdge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<style><![CDATA[
+.pbg{fill:#0b1026}.pln{stroke:#334155}.ph{fill:#c4b5fd}.pt{fill:#f1f5f9}.pm{fill:#94a3b8}.pchip{fill:#16203f;stroke:#334a72}.pchipt{fill:#e2e8f0}.phead{fill:#141a38}
+@media (prefers-color-scheme: light){.pbg{fill:#f8fafc}.pln{stroke:#cbd5e1}.ph{fill:#5b21b6}.pt{fill:#0f172a}.pm{fill:#475569}.pchip{fill:#e0f2fe;stroke:#7dd3fc}.pchipt{fill:#0c4a6e}.phead{fill:#eef2ff}}
+.pp{font-family:Inter,"Segoe UI",Arial,sans-serif}.pmono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+]]></style>
+</defs>
+<rect class="pbg" x="1" y="1" width="1278" height="558" rx="6" stroke="url(#pEdge)" stroke-width="2"/>
+<svg x="70" y="30" width="309" height="500" viewBox="0 0 420 680">
+  
+  
   <defs>
     <linearGradient id="strap" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#312e81"/><stop offset="0.46" stop-color="#7c3aed"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>
     <linearGradient id="strapEdge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset="0.5" stop-color="#c084fc"/><stop offset="1" stop-color="#3ddc84" stop-opacity="0"/></linearGradient>
@@ -87,4 +97,32 @@
       </g>
     </g>
   </g>
+</svg>
+<path class="pln" d="M430 30V530"/>
+<text class="pp pt" x="470" y="151" font-size="24" font-weight="800">🚀 Projetos em destaque</text>
+<rect class="pln phead" x="470" y="175" width="740" height="48" rx="6"/>
+<rect class="pln" x="470" y="175" width="740" height="216" rx="6" fill="none"/>
+<text class="pp ph" x="494" y="205" font-size="15" font-weight="700">Projeto</text>
+<text class="pp ph" x="860" y="205" font-size="15" font-weight="700" text-anchor="middle">💻 Tech</text>
+<text class="pp ph" x="1115" y="205" font-size="15" font-weight="700" text-anchor="middle">Status</text>
+
+<path class="pln" d="M470 223H1210"/>
+<text class="pp pt" x="494" y="257" font-size="16">🏥 SmartClin</text>
+<rect class="pchip" x="733.9" y="238" width="73.8" height="26" rx="6"/><text class="pmono pchipt" x="770.8" y="255" font-size="12" text-anchor="middle">Next.js</text>
+<rect class="pchip" x="815.7" y="238" width="96.0" height="26" rx="6"/><text class="pmono pchipt" x="863.7" y="255" font-size="12" text-anchor="middle">TypeScript</text>
+<rect class="pchip" x="919.7" y="238" width="66.4" height="26" rx="6"/><text class="pmono pchipt" x="952.9" y="255" font-size="12" text-anchor="middle">Stripe</text>
+<text class="pp pt" x="1110" y="257" font-size="16" text-anchor="middle">🔒 Privado</text>
+<path class="pln" d="M470 279H1210"/>
+<text class="pp pt" x="494" y="313" font-size="16">🌐 Portfólio profissional</text>
+<rect class="pchip" x="778.5" y="294" width="59.0" height="26" rx="6"/><text class="pmono pchipt" x="808.0" y="311" font-size="12" text-anchor="middle">React</text>
+<rect class="pchip" x="845.5" y="294" width="96.0" height="26" rx="6"/><text class="pmono pchipt" x="893.5" y="311" font-size="12" text-anchor="middle">TypeScript</text>
+<text class="pp pt" x="1110" y="313" font-size="16" text-anchor="middle">🟢 Online</text>
+<path class="pln" d="M470 335H1210"/>
+<text class="pp pt" x="494" y="369" font-size="16">⛪ Ministério Plantar</text>
+<rect class="pchip" x="726.5" y="350" width="51.6" height="26" rx="6"/><text class="pmono pchipt" x="752.3" y="367" font-size="12" text-anchor="middle">Java</text>
+<rect class="pchip" x="786.1" y="350" width="103.4" height="26" rx="6"/><text class="pmono pchipt" x="837.8" y="367" font-size="12" text-anchor="middle">Spring Boot</text>
+<rect class="pchip" x="897.5" y="350" width="96.0" height="26" rx="6"/><text class="pmono pchipt" x="945.5" y="367" font-size="12" text-anchor="middle">PostgreSQL</text>
+<text class="pp pt" x="1110" y="369" font-size="16" text-anchor="middle">🔒 Privado</text>
+<path class="pln" d="M700 175V391M1020 175V391"/>
+<rect x="470" y="427" width="3" height="28" fill="#a78bfa"/><text class="pp pm" x="486" y="447" font-size="15" font-style="italic">💭 "Construindo soluções, aprendendo sempre."</text>
 </svg>
