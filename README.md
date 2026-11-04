@@ -20,21 +20,13 @@
 
 <div align="center">
 
-### 📊 Estatísticas do GitHub
-
 <img src="./assets/dashboard.svg" alt="Estatísticas públicas do GitHub e stack por categoria de Robson Soares" width="860"/>
-
-<sub>Dados públicos conferidos em 04/11/2026. As contagens da stack são as tecnologias listadas acima, não linhas de código.</sub>
 
 <br/>
 
 <img src="./assets/skill-cards.svg" alt="Áreas principais: Java, Front-end, Node.js, PHP, Bancos de dados e Segurança" width="860"/>
 
 <br/><br/>
-
-### 🐍 Minhas contribuições em movimento
-
-<sub>Gráfico atualizado a cada 12 horas pelo GitHub Actions, a partir das contribuições exibidas pelo GitHub.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsonejsoares/robsonejsoares/output/github-snake-dark.svg">
