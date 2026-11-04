@@ -99,11 +99,11 @@
   </g>
 </svg>
 <path class="pln" d="M430 30V530"/>
-<text class="pp pt" x="470" y="151" font-size="24" font-weight="800">🚀 Projetos em destaque</text>
+<text class="pp pt" x="470" y="151" font-size="24" font-weight="800">Projetos em destaque</text>
 <rect class="pln phead" x="470" y="175" width="740" height="48" rx="6"/>
 <rect class="pln" x="470" y="175" width="740" height="216" rx="6" fill="none"/>
 <text class="pp ph" x="494" y="205" font-size="15" font-weight="700">Projeto</text>
-<text class="pp ph" x="860" y="205" font-size="15" font-weight="700" text-anchor="middle">💻 Tech</text>
+<text class="pp ph" x="860" y="205" font-size="15" font-weight="700" text-anchor="middle">Tech</text>
 <text class="pp ph" x="1115" y="205" font-size="15" font-weight="700" text-anchor="middle">Status</text>
 
 <path class="pln" d="M470 223H1210"/>
