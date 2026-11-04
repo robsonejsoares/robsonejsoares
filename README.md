@@ -92,20 +92,20 @@ Trabalho com **Java, PHP, Node.js e React**, além de bancos relacionais e NoSQL
 ## 📊 GitHub Stats Center
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
-  <img width="49%" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=0d1024&title_color=a78bfa&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6&border_color=2d2a5e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=ffffff&title_color=5b3df5&text_color=1f2937&icon_color=6d4aff&ring_color=6d4aff&border_color=e5e0ff">
+  <img width="49%" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=robsonejsoares&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=0d1024&title_color=a78bfa&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6&border_color=2d2a5e">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&theme=tokyonight&hide_border=true&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&theme=default&hide_border=true&langs_count=8">
-  <img width="49%" alt="Distribuição de linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&theme=tokyonight&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&langs_count=8&border_radius=16&bg_color=0d1024&title_color=a78bfa&text_color=c9d1d9&border_color=2d2a5e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&langs_count=8&border_radius=16&bg_color=ffffff&title_color=5b3df5&text_color=1f2937&border_color=e5e0ff">
+  <img width="49%" alt="Distribuição de linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonejsoares&layout=donut&langs_count=8&border_radius=16&bg_color=0d1024&title_color=a78bfa&text_color=c9d1d9&border_color=2d2a5e">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&theme=default&hide_border=true">
-  <img width="98%" alt="Streak de contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&border_radius=16&background=0d1024&stroke=2d2a5e&ring=8b5cf6&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9ca3af&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&border_radius=16&background=ffffff&stroke=e5e0ff&ring=6d4aff&fire=f97316&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=5b3df5&sideLabels=5b3df5&dates=6b7280&hide_border=true">
+  <img width="98%" alt="Streak de contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonejsoares&border_radius=16&background=0d1024&stroke=2d2a5e&ring=8b5cf6&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9ca3af&hide_border=true">
 </picture>
 
 <picture>
@@ -139,9 +139,9 @@ Trabalho com **Java, PHP, Node.js e React**, além de bancos relacionais e NoSQL
 ## 🔥 Atividade e Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&theme=minimal&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es">
-  <img width="98%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&bg_color=0d1024&color=a78bfa&line=8b5cf6&point=ffffff&area_color=6d4aff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&bg_color=ffffff&color=5b3df5&line=6d4aff&point=1f2937&area_color=a78bfa">
+  <img width="98%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=robsonejsoares&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&bg_color=0d1024&color=a78bfa&line=8b5cf6&point=ffffff&area_color=6d4aff">
 </picture>
 
 <picture>
