@@ -23,9 +23,9 @@
 
 | Projeto | 💻 Tech | Status |
 |:---|:---:|:---:|
-| 🏥 smart-clin — SaaS de gestão e agendamento de clínicas | `Next.js` `TypeScript` `Prisma` `Stripe` | 🔒 Privado |
+| 🏥 SmartClin | `Next.js` `TypeScript` `Prisma` `Stripe` | 🔒 Privado |
 | 🌐 [Portfólio profissional](https://zayroncode.com.br/portfolio/robson-soares) | `React` `TypeScript` `Vercel` | 🟢 Online |
-| ⛪ Ministério Plantar — sistema de gestão | `Java` `Spring Boot` `PostgreSQL` | 🔒 Privado |
+| ⛪ Ministério Plantar | `Java` `Spring Boot` `PostgreSQL` | 🔒 Privado |
 
 <br/>
 
