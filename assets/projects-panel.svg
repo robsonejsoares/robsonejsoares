@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Crachá de Robson Soares e projetos em destaque: SmartClin, Portfólio e Ministério Plantar">
-<defs>
+<defs><pattern id="gridp" width="28" height="28" patternUnits="userSpaceOnUse"><path class="gl" d="M28 0H0V28" fill="none"/></pattern>
 <linearGradient id="pEdge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
 <style><![CDATA[
+.gl{stroke:#fff;stroke-opacity:.05}
 .pbg{fill:#0b1026}.pln{stroke:#334155}.ph{fill:#c4b5fd}.pt{fill:#f1f5f9}.pm{fill:#94a3b8}.pchip{fill:#16203f;stroke:#334a72}.pchipt{fill:#e2e8f0}.phead{fill:#141a38}
-@media (prefers-color-scheme: light){.pbg{fill:#f8fafc}.pln{stroke:#cbd5e1}.ph{fill:#5b21b6}.pt{fill:#0f172a}.pm{fill:#475569}.pchip{fill:#e0f2fe;stroke:#7dd3fc}.pchipt{fill:#0c4a6e}.phead{fill:#eef2ff}}
+@media (prefers-color-scheme: light){.gl{stroke:#64748b;stroke-opacity:.07}.pbg{fill:#f8fafc}.pln{stroke:#cbd5e1}.ph{fill:#5b21b6}.pt{fill:#0f172a}.pm{fill:#475569}.pchip{fill:#e0f2fe;stroke:#7dd3fc}.pchipt{fill:#0c4a6e}.phead{fill:#eef2ff}}
 .pp{font-family:Inter,"Segoe UI",Arial,sans-serif}.pmono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
 ]]></style>
 </defs>
-<rect class="pbg" x="1" y="1" width="1278" height="558" rx="6" stroke="url(#pEdge)" stroke-width="1.2"/>
+<rect class="pbg" x="1" y="1" width="1278" height="558" rx="6" stroke="url(#pEdge)" stroke-width="1.2"/><rect x="1" y="1" width="1278" height="558" rx="6" fill="url(#gridp)"/>
 <svg x="70" y="30" width="309" height="500" viewBox="0 0 420 680">
   
   
