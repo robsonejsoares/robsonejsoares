@@ -149,7 +149,13 @@ public final class RobsonSoares {
 
 ### 📊 Estatísticas do GitHub
 
-<img src="./assets/stats.svg" alt="Estatísticas públicas do GitHub de Robson Soares" height="185"/>
+<img src="./assets/dashboard.svg" alt="Estatísticas públicas do GitHub e stack por categoria de Robson Soares" width="860"/>
+
+<sub>Dados públicos conferidos em 04/11/2026. As contagens da stack são as tecnologias listadas acima, não linhas de código.</sub>
+
+<br/>
+
+<img src="./assets/skill-cards.svg" alt="Áreas principais: Java, Front-end, Node.js, PHP, Bancos de dados e Segurança" width="860"/>
 
 <br/><br/>
 

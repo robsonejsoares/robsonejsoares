@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" role="img" aria-label="Estatísticas públicas do GitHub e stack por categoria de Robson Soares">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style><![CDATA[
+    text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .bg{fill:#0b1026}.ttl{fill:#c4b5fd}.lb{fill:#e2e8f0}.mu{fill:#94a3b8}.track{fill:#1e1b3a}.rg{stroke:#1e1b3a}.big{fill:#34d399}
+    .v1{fill:#facc15}.v2{fill:#34d399}.v3{fill:#a78bfa}.v4{fill:#38bdf8}.v5{fill:#fb923c}
+    @media (prefers-color-scheme: light){
+      .bg{fill:#f8fafc}.ttl{fill:#5b21b6}.lb{fill:#1e293b}.mu{fill:#475569}.track{fill:#e2e8f0}.rg{stroke:#e2e8f0}.big{fill:#059669}
+      .v1{fill:#a16207}.v2{fill:#047857}.v3{fill:#6d28d9}.v4{fill:#0369a1}.v5{fill:#c2410c}
+    }
+    .fade{opacity:0;animation:fade .6s ease forwards}
+    @keyframes fade{to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.fade{animation:none;opacity:1}}
+  ]]></style>
+
+  <rect class="bg" x="1" y="1" width="488" height="208" rx="6" stroke="url(#edge)" stroke-width="2"/>
+  <text class="ttl" x="26" y="38" font-size="16" font-weight="700">⚡ Estatísticas de Robson Soares</text>
+  <g font-size="13">
+    <text class="lb" x="26" y="76">⭐ Repositórios públicos:</text><text class="v2" x="300" y="76" text-anchor="end" font-weight="700">1</text>
+    <text class="lb" x="26" y="104">👥 Seguidores:</text><text class="v3" x="300" y="104" text-anchor="end" font-weight="700">1</text>
+    <text class="lb" x="26" y="132">🔗 Seguindo:</text><text class="v4" x="300" y="132" text-anchor="end" font-weight="700">1</text>
+    <text class="lb" x="26" y="160">📅 No GitHub desde:</text><text class="v1" x="300" y="160" text-anchor="end" font-weight="700">2023</text>
+    <text class="lb" x="26" y="188">🚀 Projetos em destaque:</text><text class="v2" x="300" y="188" text-anchor="end" font-weight="700">3</text>
+  </g>
+  <g transform="translate(400 106)">
+    <circle class="rg" r="46" fill="none" stroke-width="9"/>
+    <circle r="46" fill="none" stroke="url(#ring)" stroke-width="9" stroke-linecap="round" stroke-dasharray="230 60" transform="rotate(-90)">
+      <animateTransform attributeName="transform" type="rotate" from="-90" to="270" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <text class="big" y="9" text-anchor="middle" font-size="26" font-weight="800">RS</text>
+    <text class="mu" y="72" text-anchor="middle" font-size="9">FULL STACK</text>
+  </g>
+
+  <rect class="bg" x="501" y="1" width="358" height="208" rx="6" stroke="url(#edge)" stroke-width="2"/>
+  <text class="ttl" x="522" y="36" font-size="14" font-weight="700">📊 Stack por categoria</text>
+  <g>
+    <rect x="522" y="48" width="71" height="8" rx="4" fill="#f59e0b"/>
+    <rect x="593" y="48" width="62" height="8" fill="#38bdf8"/>
+    <rect x="655" y="48" width="53" height="8" fill="#a78bfa"/>
+    <rect x="708" y="48" width="53" height="8" fill="#facc15"/>
+    <rect x="761" y="48" width="75" height="8" rx="4" fill="#818cf8"/>
+  </g>
+  <g font-size="11">
+    <circle cx="526" cy="84" r="4" fill="#f59e0b"/><text class="lb" x="538" y="88">Java</text><rect class="track" x="640" y="82" width="150" height="6" rx="3"/><rect class="fade" x="640" y="82" width="150" height="6" rx="3" fill="#f59e0b"/><text class="v1" x="836" y="88" text-anchor="end">8</text>
+    <circle cx="526" cy="108" r="4" fill="#38bdf8"/><text class="lb" x="538" y="112">Front-end</text><rect class="track" x="640" y="106" width="150" height="6" rx="3"/><rect class="fade" x="640" y="106" width="131" height="6" rx="3" fill="#38bdf8" style="animation-delay:.1s"/><text class="v4" x="836" y="112" text-anchor="end">7</text>
+    <circle cx="526" cy="132" r="4" fill="#a78bfa"/><text class="lb" x="538" y="136">Bancos</text><rect class="track" x="640" y="130" width="150" height="6" rx="3"/><rect class="fade" x="640" y="130" width="113" height="6" rx="3" fill="#a78bfa" style="animation-delay:.2s"/><text class="v3" x="836" y="136" text-anchor="end">6</text>
+    <circle cx="526" cy="156" r="4" fill="#facc15"/><text class="lb" x="538" y="160">DevOps</text><rect class="track" x="640" y="154" width="150" height="6" rx="3"/><rect class="fade" x="640" y="154" width="113" height="6" rx="3" fill="#facc15" style="animation-delay:.3s"/><text class="v1" x="836" y="160" text-anchor="end">6</text>
+    <circle cx="526" cy="180" r="4" fill="#818cf8"/><text class="lb" x="538" y="184">PHP</text><rect class="track" x="640" y="178" width="150" height="6" rx="3"/><rect class="fade" x="640" y="178" width="94" height="6" rx="3" fill="#818cf8" style="animation-delay:.4s"/><text class="v3" x="836" y="184" text-anchor="end">5</text>
+  </g>
+</svg>
