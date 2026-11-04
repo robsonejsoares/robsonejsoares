@@ -114,11 +114,11 @@ def render_rows(languages):
         y = 68 + index * 24
         color = PALETTE[index % len(PALETTE)]
         label = html.escape(name)
-        width = 145 * ratio
+        width = 120 * ratio
         rows.append(
             f'<circle cx="526" cy="{y}" r="4" fill="{color}"/>'
             f'<text class="lb" x="538" y="{y + 4}" font-size="10.5">{label}</text>'
-            f'<rect class="track" x="680" y="{y - 3}" width="145" height="6" rx="3"/>'
+            f'<rect class="track" x="680" y="{y - 3}" width="120" height="6" rx="3"/>'
             f'<rect x="680" y="{y - 3}" width="{width:.2f}" height="6" rx="3" fill="{color}"/>'
             f'<text x="838" y="{y + 4}" text-anchor="end" font-size="10.5" '
             f'font-weight="700" fill="{color}">{percentage}%</text>'
