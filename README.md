@@ -10,7 +10,10 @@
 
 <br/>
 
-<table width="100%" border="0">
+<table border="0">
+<tr>
+<td colspan="2" height="0" style="padding:0"><img src="./assets/spacer.svg" width="2000" height="1" alt=""/></td>
+</tr>
 <tr>
 <td width="38%" align="center" valign="middle">
 
